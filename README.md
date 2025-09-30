@@ -1,8 +1,5 @@
-# Taller-2---Causal-Inference / Data
-
-#============================
-#    PARTE 2
-#============================
+### Taller-2---Causal-Inference / Data
+#   PARTE 2
 Utilicen la base de datos "medicaid_did.dta".
 
 Las variables son las siguientes:
